@@ -7,3 +7,6 @@
 [submodule "script"]
 	path = script
 	url = https://github.com/ganboing/ski-script.git
+[submodule "testcase"]
+	path = testcase
+	url = https://github.com/ganboing/ski-testcase.git
