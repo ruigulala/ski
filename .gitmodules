@@ -1,3 +1,6 @@
 [submodule "wrapper"]
 	path = wrapper
 	url = https://github.com/ganboing/ski-wrapper.git
+[submodule "vmm"]
+	path = vmm
+	url = https://github.com/ganboing/ski-vmm.git
