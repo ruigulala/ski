@@ -3,7 +3,7 @@
 	url = https://github.com/ganboing/ski-wrapper.git
 [submodule "vmm"]
 	path = vmm
-	url = https://github.com/ganboing/ski-vmm.git
+	url = git@github.com:ganboing/ski-vmm.git
 [submodule "script"]
 	path = script
 	url = https://github.com/ganboing/ski-script.git
